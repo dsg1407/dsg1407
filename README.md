@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por tecnologia, tendo como um dos principais hobbies resolver problemas e desenvolver novas ideias utilizando a programação. :computer:
- <br/> Atualmente não trabalho diretamente área de TI, tendo como desafio a aplicação das metodologias ágeis em outras áreas corporativas.
+ <br/> Atualmente não trabalho diretamente na área de TI, tendo como desafio a aplicação das metodologias ágeis em outras áreas corporativas.
  
  <br/> :blush: &nbsp; Posso te ajudar com Scrum, Javascript e SQL
  <br/> :computer: &nbsp; Stack que estudo e aplico: ReactJS, Node.js, React Native
