@@ -1,6 +1,6 @@
 # Daniel Gonçalves
 
-## Olá pessoal 👋
+<!--## Olá pessoal 👋
 Sou apaixonado por tecnologia, tendo como um dos principais hobbies resolver problemas e desenvolver novas ideias utilizando a programação. :computer:
  <br/> Atualmente não trabalho diretamente na área de TI, tendo como desafio a aplicação das metodologias ágeis em outras áreas corporativas.
  
@@ -11,7 +11,7 @@ Sou apaixonado por tecnologia, tendo como um dos principais hobbies resolver pro
 | 
 [![Gmail Badge](https://img.shields.io/badge/-dsg1407@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dsg1407@gmail.com)](mailto:dsg1407@gmail.com)
 
-<!--
+
 **dsg1407/dsg1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
